@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../front-end project/bootstrab first"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "class website"
+	}
+}
